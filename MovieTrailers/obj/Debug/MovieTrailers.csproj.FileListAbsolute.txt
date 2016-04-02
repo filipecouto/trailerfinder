@@ -1,0 +1,56 @@
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\csc.exe
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\vbc.exe
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\VBCSCompiler.exe
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\MovieTrailers.dll.config
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\MovieTrailers.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\MovieTrailers.pdb
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.csprojResolveAssemblyReference.cache
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.pdb
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\Newtonsoft.Json.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Net.Http.Formatting.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Web.Http.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Web.Http.WebHost.dll
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\Newtonsoft.Json.xml
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Net.Http.Formatting.xml
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Web.Http.xml
+D:\Personal Projects\Visual Studio\asp.net\MovieTrailers\MovieTrailers\bin\System.Web.Http.WebHost.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\csc.exe
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\System.Collections.Immutable.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\vbc.exe
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\VBCSCompiler.exe
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\roslyn\VBCSCompiler.exe.config
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\MovieTrailers.dll.config
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\MovieTrailers.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\MovieTrailers.pdb
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\Newtonsoft.Json.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Net.Http.Formatting.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Web.Http.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Web.Http.WebHost.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\Newtonsoft.Json.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Net.Http.Formatting.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Web.Http.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\bin\System.Web.Http.WebHost.xml
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.dll
+C:\xampp\htdocs\MovieTrailers\MovieTrailers\obj\Debug\MovieTrailers.pdb

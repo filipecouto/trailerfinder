@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="JS/Core/youtube.js"></script>
+    <script src="JS/Core/facebook.js"></script>
+    <script src="JS/Core/config.js"></script>
+    <script src="JS/base.js"></script>
+    <script src="JS/Controllers/MovieController.js"></script>
+    <link rel="stylesheet" type="text/css" href="CSS/global.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <div class="content">
+        <form data-action="/Movie/getMovieData" onsubmit="submitFormByAjax(this, MoviesController.searchVideos); return false;" method="GET">
+            <input type="text" name="title" placeholder="Search a movie..." />
+        </form>
+        <div class="movies-list">
+
+        </div>
+    </div>
+
+    <div id="movie-clone-content" style="display: none;">
+        <div class="movies-content">
+            <div class="movie-header">
+                <div class="movie-title">
+                </div>
+                <div class="movie-plot">
+                </div>
+            </div>
+            <div class="movie-trailer-box">
+                <div class="movie-trailer">
+                </div>
+            </div>
+            <div class="movie-social-shares">
+                <div class="facebook-share">
+                    Share on Facebook
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
